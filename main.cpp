@@ -131,7 +131,7 @@ void LinkedList<T>::InsertNode(int indexData, T newData)
 template<class T>
 void LinkedList<T>::DeleteNode(T data)
 {
-    Node*curForDelete=SearchElement(data);//curForDelete == nullptr
+    Node*curForDelete=SearchElement(data);
     if (!curForDelete)
     {
         cout<<"Такого нет"<<endl;
