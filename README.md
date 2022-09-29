@@ -1,2 +1,2 @@
-# Linked-List-OOP
+# Linked List OOP
 Линейный односвязный список на С++
